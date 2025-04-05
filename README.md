@@ -1,4 +1,4 @@
-# ☕ Hibernate Java-Based Config – Student Entity Demo 📚
+#  Hibernate Java-Based Config – Student Entity Demo 📚
 
 Welcome to a clean, annotation-driven Hibernate project that skips the XML clutter and goes fully Java!  
 This mini project shows how to configure Hibernate using **pure Java classes** with a simple `Student` entity to perform basic **CRUD operations**.
